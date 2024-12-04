@@ -12,6 +12,9 @@ We love your input! We want to make contributing to this project as easy and tra
 - Read about our [Code Of Conduct](https://github.com/evershopcommerce/evershop/blob/main/CODE_OF_CONDUCT.md).
 
 ## Developing
+//random comment
+//second thought
+/nachahine code
 
 To develop locally:
 
