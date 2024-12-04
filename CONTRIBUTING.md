@@ -53,7 +53,7 @@ npm run build
 
 8. Testing the production build
 ```bash
-npm run start
+npm run start:dev
 ```
 
 9. Running tests
